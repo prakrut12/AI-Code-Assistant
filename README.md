@@ -37,7 +37,7 @@ Deployed Link:https://ai-code-assistant-cpdefmlzyr69yzng9skh4c.streamlit.app/
 ## ▶️ How to Run
 
 1.Clone the repository:
-   git clone https://github.com/your-username/agentic-coding-assistant.git
+   git clone https://github.com/prakrut12/AI-Code-Assistant.git
 
 2.Navigate to project folder:
    cd agentic-coding-assistant
