@@ -33,6 +33,8 @@ This project simulates that behavior using logic-based decision making and can b
 - Streamlit (for UI)
 
 Deployed Link:https://ai-code-assistant-cpdefmlzyr69yzng9skh4c.streamlit.app/
+UI preview:<img width="936" height="697" alt="image" src="https://github.com/user-attachments/assets/58bb3f14-ee0b-4546-ae06-2183ae5636f0" />
+
 
 ## ▶️ How to Run
 
