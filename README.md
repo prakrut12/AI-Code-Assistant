@@ -32,7 +32,7 @@ This project simulates that behavior using logic-based decision making and can b
 - Python
 - Streamlit (for UI)
 
----
+Deployed Link:https://ai-code-assistant-cpdefmlzyr69yzng9skh4c.streamlit.app/
 
 ## ▶️ How to Run
 
